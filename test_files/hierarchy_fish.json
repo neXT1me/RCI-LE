@@ -1,0 +1,28 @@
+{
+    "1": {
+        "model": "dopystim",
+        "type_instrument": "testing device",
+        "address": "03",
+        "baudrate": 921600,
+        "stop bits": 2,
+        "table_param": "table_command_device.csv"
+    },
+    "2": {
+        "model": "33220a",
+        "type_instrument": "lab",
+        "address": "01",
+        "table_param": "file_const.csv"
+    },
+    "3": {
+        "model": "33220a",
+        "type_instrument": "lab",
+        "address": "03",
+        "table_param": "file_no_const_2.csv"
+    },
+    "4": {
+        "model": "33220a",
+        "type_instrument": "lab",
+        "address": "04",
+        "table_param": "file_no_const_3.csv"
+    }
+}
